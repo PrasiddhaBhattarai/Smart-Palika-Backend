@@ -1,8 +1,13 @@
-# Civic-Desk
+# Smart-Palika-Backend
 # 🏙️ Civic Complaint Management System – Backend
 
 A RESTful backend API for managing civic complaints in municipalities and wards. Built using Node.js, Express, PostgreSQL with PostGIS for geolocation, and Redis for caching.
 
+---
+### You can find full-stack application here
+```
+https://github.com/PrasiddhaBhattarai/Smart-Palika-fullstack
+```
 ---
 
 ## 🚀 Features
